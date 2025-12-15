@@ -37,17 +37,3 @@ git push
 ```
 2. Once you have verified the changes, open a pull request. The option will be visible on the fork homepage. Make sure to add a PR to the correct branch
 3. The PR will be reviewed and accepted by admins
-
-
-## Timeline:
-### Basic Framework
-- [ ] Hero Page
-- [ ] About Us
-- [ ] What We Do
-- [ ] Portfolio
-- [ ] Team
-- [ ] Mentors
-- [ ] Frequently Asked Questions
-- [ ] Contact
-- [ ] Projects Page
-- [ ] Header/Footer
